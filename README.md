@@ -1,10 +1,12 @@
 # PathBuddy Backend
 
-A Node.js backend API for connecting students with mentors through a centralized matching platform. Originally developed for a hackathon and now being expanded as a full-stack learning project.
+A Node.js backend API for connecting students with mentors through a centralized matching platform. This is an ongoing personal project focused on building robust backend services for mentorship management.
 
 ## Overview
 
 PathBuddy provides a RESTful API to match students with mentors based on their specific needs and manage support requests between them. The platform aims to streamline the mentorship process by offering intelligent matching algorithms and comprehensive request management.
+
+Note: This project currently focuses exclusively on backend development. The API is designed to be consumed by future frontend applications.
 
 ## Tech Stack
 
@@ -97,7 +99,7 @@ pathbuddy-backend/
 
 This is a personal learning project, but feedback and suggestions are welcome. Feel free to open issues or submit pull requests.
 
-## Future Development
+## Future Scope
 
 - **Frontend**: React-based user interface
 - **Authentication**: JWT-based user authentication
